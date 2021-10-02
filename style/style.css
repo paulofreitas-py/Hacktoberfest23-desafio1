@@ -121,7 +121,7 @@ article{
   color: #F3F5F7;  
 }
 /*-------------------------*/
-/*Responsive*/
+/*Code For Responsive*/
 @media (min-width: 900px){
 #content-title-header{
   margin: 0 auto;
